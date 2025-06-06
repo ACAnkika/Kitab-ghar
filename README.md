@@ -1,10 +1,8 @@
-# Kitab-ghar
- Your Smart Digital Bookstore  KitabGhar is an intuitive online bookstore web app that lets users discover, browse, and buy books while allowing admins to manage inventory, orders, and listings—all in one place. Built with PHP, MySQL, HTML, CSS, and JavaScript, this project is perfect for students, developers, or small businesses looking to set up a full-fledged digital bookstore.
- Features:
-User-friendly book browsing and search
-Secure order placement system
-Admin dashboard for inventory and orders
-Categorized book listings
-Scalable and easily customizable
-🔧 Tech Stack: PHP • MySQL • HTML • CSS • JavaScript
-🌐 Language: Hinglish (for fun and relatability)
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
